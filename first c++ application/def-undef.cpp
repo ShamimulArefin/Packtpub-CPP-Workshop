@@ -9,10 +9,10 @@
 
 // more 1-----------
 
-// #include <iostream>
+#include <iostream>
 
-// #define multiply(a,b)(a*b)
+#define multiply(a,b)(a*b)
 
-// int main(){
-//     std::cout << multiply(3,4);
-// }
+int main(){
+    std::cout << multiply(3,4);
+}
